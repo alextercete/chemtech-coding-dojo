@@ -1,5 +1,5 @@
 NAO_ESCUTOU = "O QUE? FALA MAIS ALTO!"
-ESCUTOU_MAS_NAO_ENTENDEU = "N√O, N√O DESDE 1938"
+ESCUTOU_MAS_NAO_ENTENDEU = "N√ÉO, N√ÉO DESDE 1938"
 
 class VelhaSurda
     attr_accessor :foi_embora
